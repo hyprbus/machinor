@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "name": "machinor",
+  "version": "1.0.0",
+  "description": "Machinor WWW",
+  "main": "index.js",
+  "author": "Sebastian Nyberg",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {}
+}
