@@ -11,4 +11,5 @@ body {
 .ingress {
   font-family: 'Noto Sans', sans-serif;
   font-size: 1em;
+  margin: 0 0 .5em 0;
 }
